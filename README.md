@@ -1,4 +1,4 @@
-### Here is what I'm working on! 👋
+### Here is what I'm working on! 
 
 
 Here are some ideas to get you started:
@@ -10,5 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... lbahrami@design.upenn.edu / lbahrami69@gmail.com
 - 😄 Pronouns: ... SHe/Her
-- ⚡ Fun fact: ...
--->
+
